@@ -4,7 +4,7 @@ Submitted by: **Honghao Lin**
 
 This web app: **Veni Vici**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
